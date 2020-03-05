@@ -1,0 +1,10 @@
+C:\Users\Nox\source\repos\STARK - Compiler and Debugger\bin\Debug\STARK - Compiler and Debugger.exe.config
+C:\Users\Nox\source\repos\STARK - Compiler and Debugger\bin\Debug\STARK - Compiler and Debugger.exe
+C:\Users\Nox\source\repos\STARK - Compiler and Debugger\bin\Debug\STARK - Compiler and Debugger.pdb
+C:\Users\Nox\source\repos\STARK - Compiler and Debugger\obj\Debug\STARK - Compiler and Debugger.csprojAssemblyReference.cache
+C:\Users\Nox\source\repos\STARK - Compiler and Debugger\obj\Debug\STARK___Compiler_and_Debugger.Form1.resources
+C:\Users\Nox\source\repos\STARK - Compiler and Debugger\obj\Debug\STARK___Compiler_and_Debugger.Properties.Resources.resources
+C:\Users\Nox\source\repos\STARK - Compiler and Debugger\obj\Debug\STARK - Compiler and Debugger.csproj.GenerateResource.cache
+C:\Users\Nox\source\repos\STARK - Compiler and Debugger\obj\Debug\STARK - Compiler and Debugger.csproj.CoreCompileInputs.cache
+C:\Users\Nox\source\repos\STARK - Compiler and Debugger\obj\Debug\STARK - Compiler and Debugger.exe
+C:\Users\Nox\source\repos\STARK - Compiler and Debugger\obj\Debug\STARK - Compiler and Debugger.pdb
